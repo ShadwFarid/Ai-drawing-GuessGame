@@ -43,6 +43,9 @@ The dataset was fully created and labeled manually by our team using a custom dr
 - TensorFlow / Keras
 - OpenCV
 - NumPy
+## Samples
+
+![Samples](guess_game/images/house_samples.png)![triangle_Samples](guess_game/images/triangle_samples.png)![car_Samples](guess_game/images/car_samples.png)![sun_Samples](guess_game/images/sun_samples.png)
 
 ## ▶️ How to Run
 
