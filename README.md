@@ -28,7 +28,7 @@ The dataset was fully created and labeled manually by our team using a custom dr
 
 ## 📊 Classification_Report
 
-![Classification_Report](images/Classification_Report.png)
+![Classification_Report](guess_game/images/Classification_Report.png)
 
 ## 🖼️ Demo
 
