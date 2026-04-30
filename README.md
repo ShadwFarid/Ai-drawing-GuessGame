@@ -48,4 +48,4 @@ The dataset was fully created and labeled manually by our team using a custom dr
 
 ```bash
 pip install -r requirements.txt
-python app.py
+python evaluate.py
