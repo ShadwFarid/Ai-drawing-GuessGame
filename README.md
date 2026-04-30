@@ -32,11 +32,11 @@ The dataset was fully created and labeled manually by our team using a custom dr
 
 ## 🖼️ Demo
 
-![Demo](images/demo.png)
+![Demo](guess_game/images/demo.png)
 
 ## 📊 Confusion Matrix
 
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](guess_game/images/confusion_matrix.png)
 
 ## 🛠️ Tech Stack
 - Python
